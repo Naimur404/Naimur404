@@ -48,7 +48,7 @@
    </a>
   &emsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/Ruby" target="_blank"> 
-     <img alt="Ruby" src="https://img.shields.io/badge/ruby%20-%23F7DF1E.svg?style=plastic&logo=rubyt&logoColor=black">
+     <img alt="Ruby" src="https://img.shields.io/badge/ruby%20-%23F7DF1E.svg?style=plastic&logo=ruby&logoColor=black">
    </a>
   &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/Jquery" target="_blank"> 
