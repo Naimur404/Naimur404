@@ -51,6 +51,10 @@
      <img alt="Ruby" src="https://img.shields.io/badge/ruby%20-%23F7DF1E.svg?style=plastic&logo=ruby&logoColor=black">
    </a>
   &emsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank"> 
+     <img alt="ionic" src="https://img.shields.io/badge/ionic%20-%23F7DF1E.svg?style=plastic&logo=ionic&logoColor=black">
+   </a>
+  &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/Jquery" target="_blank"> 
      <img alt="JQuery" src="https://img.shields.io/badge/jquery%20-%23F7DF1E.svg?style=plastic&logo=jquery&logoColor=black">
    </a>
